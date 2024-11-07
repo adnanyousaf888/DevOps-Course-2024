@@ -24,7 +24,7 @@ This setup streamlines account management, improving both security and workflow 
 ### Blog 02:
 This guide provides a comprehensive, step-by-step tutorial for deploying an Amazon EKS cluster on AWS using Terraform. It covers the entire process from setting up prerequisites and writing Terraform configurations to initializing and applying the deployment.
 
-###Key sections:
+#Key sections:
 It includes configuring the AWS CLI, setting up a Virtual Private Cloud (VPC) for EKS, deploying Kubernetes resources, and connecting to the cluster with kubectl. The guide concludes with instructions for deploying a sample application and cleaning up resources, highlighting how Terraform simplifies the automation and scalability of Kubernetes infrastructure on AWS.
 
 # Links to Blogs
