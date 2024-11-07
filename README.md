@@ -28,7 +28,7 @@ This guide provides a comprehensive, step-by-step tutorial for deploying an Amaz
 
 It includes configuring the AWS CLI, setting up a Virtual Private Cloud (VPC) for EKS, deploying Kubernetes resources, and connecting to the cluster with kubectl. The guide concludes with instructions for deploying a sample application and cleaning up resources, highlighting how Terraform simplifies the automation and scalability of Kubernetes infrastructure on AWS.
 
-# Links to Blogs
+### Links to Blogs
 Blog 01: https://medium.com/@adnanyousaf1357/optimize-your-workflow-configuring-multiple-github-accounts-on-a-single-machine-with-ssh-b59c81e3c859
 
 Blog 02: https://medium.com/@adnanyousaf1357/creating-an-eks-cluster-on-aws-with-terraform-a-comprehensive-tutorial-08f201e803dd
