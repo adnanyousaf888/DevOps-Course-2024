@@ -29,4 +29,5 @@ It includes configuring the AWS CLI, setting up a Virtual Private Cloud (VPC) fo
 
 # Links to Blogs
 Blog 01: https://medium.com/@adnanyousaf1357/optimize-your-workflow-configuring-multiple-github-accounts-on-a-single-machine-with-ssh-b59c81e3c859
+
 Blog 02: https://medium.com/@adnanyousaf1357/creating-an-eks-cluster-on-aws-with-terraform-a-comprehensive-tutorial-08f201e803dd
