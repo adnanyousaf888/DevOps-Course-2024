@@ -57,11 +57,12 @@ Moving forward, I want to deepen my DevOps knowledge by exploring new areas:
 Through continuous learning and hands-on projects, I aim to keep growing in DevOps and contribute to the field as I develop into a skilled DevOps engineer.
 
 # Skills and Tools
+
 - Service Mesh: Istio
 - Version Control: Git
 - Policy Management: Kyverno
-* Cluster Management: Amazon-EKS, Minikube
-. Containerization: Docker, Knative, Kubernetes
+- Cluster Management: Amazon-EKS, Minikube
+- Containerization: Docker, Knative, Kubernetes
 
 
 
