@@ -46,7 +46,7 @@ This blog covers the basics of Continuous Integration (CI) and Continuous Delive
 - **Knative**:
 Simplifying Serverless Architectures on Kubernetes: Here, I introduced Knative, a Kubernetes platform that helps build serverless, event-driven applications. The blog highlights how Knative makes serverless computing simpler, more scalable, and cost-effective, all while using Kubernetes.
 
-### My Continuous Learning Path
+### 2. My Continuous Learning Path
 Moving forward, I want to deepen my DevOps knowledge by exploring new areas:
 
  - Infrastructure as Code (IaC): I’m diving into tools like Terraform and Ansible to automate infrastructure setup and management.
