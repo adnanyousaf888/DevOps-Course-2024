@@ -43,7 +43,7 @@ Alongside gaining practical experience, I’ve written a few blog articles to sh
 - [Optimize Your Workflow: Configuring Multiple GitHub Accounts on a Single Machine with SSH](https://medium.com/@adnanyousaf1357/optimize-your-workflow-configuring-multiple-github-accounts-on-a-single-machine-with-ssh-b59c81e3c859 "Optimize Your Workflow: Configuring Multiple GitHub Accounts on a Single Machine with SSH")
 This blog covers the basics of Continuous Integration (CI) and Continuous Delivery (CD), and how Jenkins can automate these processes. I explain how CI/CD speeds up software delivery, reduces issues, and improves quality by automating builds, tests, and deployments.
 
-- **Knative**:
+- [Creating an EKS Cluster on AWS with Terraform: A Comprehensive Tutorial](https://medium.com/@adnanyousaf1357/creating-an-eks-cluster-on-aws-with-terraform-a-comprehensive-tutorial-08f201e803dd "Creating an EKS Cluster on AWS with Terraform: A Comprehensive Tutorial")
 Simplifying Serverless Architectures on Kubernetes: Here, I introduced Knative, a Kubernetes platform that helps build serverless, event-driven applications. The blog highlights how Knative makes serverless computing simpler, more scalable, and cost-effective, all while using Kubernetes.
 
 ### 2. My Continuous Learning Path
