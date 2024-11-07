@@ -55,3 +55,14 @@ Moving forward, I want to deepen my DevOps knowledge by exploring new areas:
  - **Advanced Monitoring and Observability:** Tools like Prometheus, Grafana, and the ELK stack are next on my list to help monitor and improve system performance.
  - **Security and Compliance:** I’m learning more about DevSecOps to integrate security into every step of the development pipeline.
 Through continuous learning and hands-on projects, I aim to keep growing in DevOps and contribute to the field as I develop into a skilled DevOps engineer.
+
+# Skills and Tools
+Service Mesh: Istio
+Version Control: Git
+Policy Management: Kyverno
+Cluster Management: Amazon-EKS, Minikube
+Containerization: Docker, Knative, Kubernetes
+
+
+
+
