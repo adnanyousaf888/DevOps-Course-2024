@@ -40,19 +40,16 @@ I’ve always been curious about how modern software systems are built, deployed
 ### 1. Sharing Knowledge: Writing Blogs on DevOps Topics
 Alongside gaining practical experience, I’ve written a few blog articles to share what I’ve learned and help others in the DevOps community.
 
-#### - CI/CD with Jenkins:
+#### CI/CD with Jenkins:
 This blog covers the basics of Continuous Integration (CI) and Continuous Delivery (CD), and how Jenkins can automate these processes. I explain how CI/CD speeds up software delivery, reduces issues, and improves quality by automating builds, tests, and deployments.
 
-#### - Knative:
+#### Knative:
 Simplifying Serverless Architectures on Kubernetes: Here, I introduced Knative, a Kubernetes platform that helps build serverless, event-driven applications. The blog highlights how Knative makes serverless computing simpler, more scalable, and cost-effective, all while using Kubernetes.
 
 ### My Continuous Learning Path
 Moving forward, I want to deepen my DevOps knowledge by exploring new areas:
 
-#### - Infrastructure as Code (IaC):
-I’m diving into tools like Terraform and Ansible to automate infrastructure setup and management.
-#### - Advanced Monitoring and Observability:
-Tools like Prometheus, Grafana, and the ELK stack are next on my list to help monitor and improve system performance.
-#### - Security and Compliance:
-I’m learning more about DevSecOps to integrate security into every step of the development pipeline.
+ - Infrastructure as Code (IaC): I’m diving into tools like Terraform and Ansible to automate infrastructure setup and management.
+ - Advanced Monitoring and Observability: Tools like Prometheus, Grafana, and the ELK stack are next on my list to help monitor and improve system performance.
+ - Security and Compliance: I’m learning more about DevSecOps to integrate security into every step of the development pipeline.
 Through continuous learning and hands-on projects, I aim to keep growing in DevOps and contribute to the field as I develop into a skilled DevOps engineer.
