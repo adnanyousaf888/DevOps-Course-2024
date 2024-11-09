@@ -81,9 +81,7 @@ This guide outlines how to establish a CI/CD pipeline for your Spring PetClinic 
 ## Step 1: Clone the Repository
 ### Clone the Spring PetClinic repository to your local machine.
 
-git clone https://github.com/spring-projects/spring-petclinic.git
-cd spring-petclinic
-
+## Step 2: Explore the Project Structure
 ### Verify the project builds and runs successfully by executing:
 
 ./mvnw spring-boot:run
@@ -96,3 +94,20 @@ In the cloned repository, create a .github/workflows/ci.yml file.
 ![image](https://github.com/user-attachments/assets/4cf06f35-ff08-407f-8e25-2dbc243e39f0)
 
 This file will define your CI/CD pipeline. You can start with a basic workflow to build and test the project:
+
+## Step 4: Dockerize the Application
+### Create a Dockerfile to package the application into a Docker container:
+
+![image](https://github.com/user-attachments/assets/732017d1-3e72-4655-9b12-6f201d214573)
+
+
+Add this to your repository, build the Docker image, and test it locally:
+
+![image](https://github.com/user-attachments/assets/81fa9ce6-7835-4b0b-a075-dbca4aa3912c)
+
+## Step 5: Extend CI/CD to Build and Push Docker Image
+### In the GitHub Actions workflow, add a step to build and push the Docker image to a container registry (e.g., Docker Hub, GitHub Container Registry).
+
+![image](https://github.com/user-attachments/assets/0459bfa2-f2c7-4df0-96d0-fb2f3cd77dba)
+
+### Store Docker credentials in GitHub Secrets for secure access.
