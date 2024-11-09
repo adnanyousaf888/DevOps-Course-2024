@@ -72,8 +72,27 @@ This guide outlines how to establish a CI/CD pipeline for your Spring PetClinic 
 
 ## Prerequisites
 
-A GitHub account
-Basic understanding of Git and GitHub (navigating repositories, editing files)
-Familiarity with YAML syntax (GitHub Actions workflows are written in YAML)
-Java Development Kit (JDK) 11 installed locally (optional for local testing)
-Docker installed locally (optional for Dockerizing the application)
+- A GitHub account
+- Basic understanding of Git and GitHub (navigating repositories, editing files)
+- Familiarity with YAML syntax (GitHub Actions workflows are written in YAML)
+- Java Development Kit (JDK) 11 installed locally (optional for local testing)
+- Docker installed locally (optional for Dockerizing the application)
+
+## Step 1: Clone the Repository
+### Clone the Spring PetClinic repository to your local machine.
+
+git clone https://github.com/spring-projects/spring-petclinic.git
+cd spring-petclinic
+
+### Verify the project builds and runs successfully by executing:
+
+./mvnw spring-boot:run
+This will ensure that the local setup works before adding CI/CD tooling.
+
+## Step 3: Set Up CI/CD Pipeline with GitHub Actions
+### Create a GitHub Actions Workflow File:
+
+In the cloned repository, create a .github/workflows/ci.yml file.
+![image](https://github.com/user-attachments/assets/4cf06f35-ff08-407f-8e25-2dbc243e39f0)
+
+This file will define your CI/CD pipeline. You can start with a basic workflow to build and test the project:
