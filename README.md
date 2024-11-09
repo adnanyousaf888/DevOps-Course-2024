@@ -66,9 +66,11 @@ Through continuous learning and hands-on projects, I aim to keep growing in DevO
 
 
 
-# Sample repo from the internet and applying DevOps tooling
+# Applying DevOps tooling
 
-This guide outlines how to establish a CI/CD pipeline for your Spring PetClinic application using GitHub Actions. This pipeline will automate building, testing, and (optionally) deploying your application, ensuring a streamlined development workflow.
+## Spring Petclinic (Java Web Application) with Github Actions and Docker
+
+This guide outlines how to establish a CI/CD pipeline for Spring PetClinic application using GitHub Actions. This pipeline will automate building, testing, and (optionally) deploying your application, ensuring a streamlined development workflow.
 
 ## Prerequisites
 
