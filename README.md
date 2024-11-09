@@ -128,4 +128,4 @@ This file will define your CI/CD pipeline. You can start with a basic workflow t
 
 You can view my Resume by using the link below:
 
-
+[View my Resume](https://github.com/adnanyousaf888/DevOps-Course-2024/blob/main/Adnan_Yousaf's%20Resume.pdf)
