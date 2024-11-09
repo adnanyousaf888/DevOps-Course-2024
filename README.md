@@ -66,4 +66,14 @@ Through continuous learning and hands-on projects, I aim to keep growing in DevO
 
 
 
+# Sample repo from the internet and applying DevOps tooling
 
+This guide outlines how to establish a CI/CD pipeline for your Spring PetClinic application using GitHub Actions. This pipeline will automate building, testing, and (optionally) deploying your application, ensuring a streamlined development workflow.
+
+## Prerequisites
+
+A GitHub account
+Basic understanding of Git and GitHub (navigating repositories, editing files)
+Familiarity with YAML syntax (GitHub Actions workflows are written in YAML)
+Java Development Kit (JDK) 11 installed locally (optional for local testing)
+Docker installed locally (optional for Dockerizing the application)
