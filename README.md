@@ -84,13 +84,15 @@ This guide outlines how to establish a CI/CD pipeline for your Spring PetClinic 
 ## Step 2: Explore the Project Structure
 - Verify the project builds and runs successfully by executing:
 
-./mvnw spring-boot:run
-This will ensure that the local setup works before adding CI/CD tooling.
+![image](https://github.com/user-attachments/assets/7f665eaa-3dc6-481d-8c87-fbf43d2bffd0)
+
+- This will ensure that the local setup works before adding CI/CD tooling.
 
 ## Step 3: Set Up CI/CD Pipeline with GitHub Actions
 - Create a GitHub Actions Workflow File:
 
 In the cloned repository, create a .github/workflows/ci.yml file.
+
 ![image](https://github.com/user-attachments/assets/4cf06f35-ff08-407f-8e25-2dbc243e39f0)
 
 This file will define your CI/CD pipeline. You can start with a basic workflow to build and test the project:
@@ -101,7 +103,7 @@ This file will define your CI/CD pipeline. You can start with a basic workflow t
 ![image](https://github.com/user-attachments/assets/732017d1-3e72-4655-9b12-6f201d214573)
 
 
-Add this to your repository, build the Docker image, and test it locally:
+- Add this to your repository, build the Docker image, and test it locally:
 
 ![image](https://github.com/user-attachments/assets/81fa9ce6-7835-4b0b-a075-dbca4aa3912c)
 
@@ -110,4 +112,4 @@ Add this to your repository, build the Docker image, and test it locally:
 
 ![image](https://github.com/user-attachments/assets/0459bfa2-f2c7-4df0-96d0-fb2f3cd77dba)
 
-### Store Docker credentials in GitHub Secrets for secure access.
+- Store Docker credentials in GitHub Secrets for secure access.
