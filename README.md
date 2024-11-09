@@ -123,3 +123,9 @@ This file will define your CI/CD pipeline. You can start with a basic workflow t
 
 - Store Docker credentials in GitHub Secrets for secure access.
 
+
+## My Resume
+
+You can view my Resume by using the link below:
+
+
