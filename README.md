@@ -22,6 +22,12 @@ This guide explains how to manage multiple GitHub accounts, both personal and wo
 
 This guide provides a thorough, step-by-step tutorial on deploying an Amazon EKS cluster on AWS using Terraform. It takes you through the entire process, starting with setting up prerequisites and writing Terraform configurations, and continuing with initializing and applying the deployment. Key topics covered include configuring the AWS CLI, setting up a Virtual Private Cloud (VPC) for EKS, deploying Kubernetes resources, and connecting to the cluster using kubectl. The guide wraps up by showing how to deploy a sample application and clean up resources, emphasizing how Terraform simplifies the automation and scalability of Kubernetes infrastructure on AWS.
 
+
+- Spring Petclinic (Java Web Application) with Github Actions and Docker
+
+This project is a guide to setting up a CI/CD pipeline for the Spring PetClinic application. It starts by cloning the repository and verifying it builds locally. Then, it guides you through creating a workflow file on GitHub Actions to automate building, testing, and deploying the application. The workflow includes stages for building with Maven, running tests, building a Docker image, and optionally pushing it to a container registry. Finally, it mentions the possibility of extending the pipeline to automatically deploy the application to various platforms.
+
+
 ### 2. My Continuous Learning Path
 Moving forward, I want to deepen my DevOps knowledge by exploring new areas:
 
