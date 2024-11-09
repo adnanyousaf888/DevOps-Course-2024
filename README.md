@@ -7,7 +7,7 @@ This repository houses the work completed for the DevOps Course 2024 assignment,
 - Expanded guidance based on existing knowledge
 - A sample landing page showcasing my CV
 
-## Guide to Learning and Contribution:
+## A Guide to Learning and Contribution:
 
 I’ve always been curious about how modern software systems are built, deployed, and managed. This curiosity has led me to explore DevOps through hands-on projects, research, and writing. Below is an overview of what I’ve learned and contributed so far.
 
@@ -31,7 +31,7 @@ Moving forward, I want to deepen my DevOps knowledge by exploring new areas:
 Through continuous learning and hands-on projects, I aim to keep growing in DevOps and contribute to the field as I develop into a skilled DevOps engineer.
 
 
-# Skills and Tools
+### Skills and Tools
 
 - Service Mesh: Istio
 - Version Control: Git
@@ -67,13 +67,13 @@ Blog 02: https://medium.com/@adnanyousaf1357/creating-an-eks-cluster-on-aws-with
 
 
 
-# Applying DevOps tooling
+## Applying DevOps tooling
 
 ## Spring Petclinic (Java Web Application) with Github Actions and Docker
 
 This guide outlines how to establish a CI/CD pipeline for Spring PetClinic application using GitHub Actions. This pipeline will automate building, testing, and (optionally) deploying your application, ensuring a streamlined development workflow.
 
-## Prerequisites
+### Prerequisites
 
 - A GitHub account
 - Basic understanding of Git and GitHub (navigating repositories, editing files)
@@ -81,17 +81,17 @@ This guide outlines how to establish a CI/CD pipeline for Spring PetClinic appli
 - Java Development Kit (JDK) 11 installed locally (optional for local testing)
 - Docker installed locally (optional for Dockerizing the application)
 
-## Step 1: Clone the Repository
+### Step 1: Clone the Repository
 - Clone the Spring PetClinic repository to your local machine.
 
-## Step 2: Explore the Project Structure
+### Step 2: Explore the Project Structure
 - Verify the project builds and runs successfully by executing:
 
 ![image](https://github.com/user-attachments/assets/7f665eaa-3dc6-481d-8c87-fbf43d2bffd0)
 
 - This will ensure that the local setup works before adding CI/CD tooling.
 
-## Step 3: Set Up CI/CD Pipeline with GitHub Actions
+### Step 3: Set Up CI/CD Pipeline with GitHub Actions
 - Create a GitHub Actions Workflow File:
 
 In the cloned repository, create a .github/workflows/ci.yml file.
@@ -100,7 +100,7 @@ In the cloned repository, create a .github/workflows/ci.yml file.
 
 This file will define your CI/CD pipeline. You can start with a basic workflow to build and test the project:
 
-## Step 4: Dockerize the Application
+### Step 4: Dockerize the Application
 - Create a Dockerfile to package the application into a Docker container:
 
 ![image](https://github.com/user-attachments/assets/732017d1-3e72-4655-9b12-6f201d214573)
@@ -110,7 +110,7 @@ This file will define your CI/CD pipeline. You can start with a basic workflow t
 
 ![image](https://github.com/user-attachments/assets/81fa9ce6-7835-4b0b-a075-dbca4aa3912c)
 
-## Step 5: Extend CI/CD to Build and Push Docker Image
+### Step 5: Extend CI/CD to Build and Push Docker Image
 - In the GitHub Actions workflow, add a step to build and push the Docker image to a container registry (e.g., Docker Hub, GitHub Container Registry).
 
 ![image](https://github.com/user-attachments/assets/0459bfa2-f2c7-4df0-96d0-fb2f3cd77dba)
